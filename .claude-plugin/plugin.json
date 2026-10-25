@@ -1,0 +1,9 @@
+{
+  "name": "cs-dev-standards",
+  "version": "0.1.0",
+  "description": "Development standards reference plugin: coding standards, folder structure, git branching, PR guidelines, and design system references. Pairs with mattpocock/skills.",
+  "author": {
+    "name": "Chetan S",
+    "email": "funfor621@gmail.com"
+  }
+}

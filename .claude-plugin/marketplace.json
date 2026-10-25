@@ -1,0 +1,11 @@
+{
+  "name": "cs-dev-standards-marketplace",
+  "owner": { "name": "Chetan S" },
+  "plugins": [
+    {
+      "name": "cs-dev-standards",
+      "source": "./",
+      "description": "Development standards reference plugin: copies branching, folder-structure, coding-standards, and design-system references into a repo and registers them in CLAUDE.md."
+    }
+  ]
+}
